@@ -1,0 +1,18 @@
+{
+	"editor.fontFamily": "'Cascadia Code', 'Droid Sans Mono', 'monospace', monospace",
+	"editor.fontLigatures": true,
+	"editor.lineNumbers": "relative",
+	"editor.minimap.enabled": false,
+	"editor.rulers": [
+		80,
+		120
+	],
+	"telemetry.telemetryLevel": "off",
+	"workbench.colorCustomizations": {
+		"editorRuler.foreground": "#613583"
+	},
+	"workbench.colorTheme": "Default Dark Modern",
+	"workbench.iconTheme": "catppuccin-latte",
+	"workbench.tips.enabled": false,
+	"workbench.tree.indent": 12
+}
